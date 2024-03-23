@@ -6,6 +6,6 @@
     "lib": ["ES2015"],
     "module": "NodeNext",
   },
-  "exclude": ["node_modules"],
+  "exclude": ["node_modules", "dist"],
   "include": ["."]
 }
