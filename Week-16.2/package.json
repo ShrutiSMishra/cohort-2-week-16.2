@@ -1,5 +1,5 @@
 {
-  "name": "Week-16.2",
+  "name": "week-16.2",
   "private": true,
   "scripts": {
     "build": "turbo build",
